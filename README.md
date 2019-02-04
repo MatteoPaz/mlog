@@ -1,2 +1,2 @@
-# ml
-Machine Learning stuff implemented using different programming languages and frameworks
+# Deep Learning
+Deep Learning stuff implemented using different programming languages and frameworks.
