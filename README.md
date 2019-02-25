@@ -1,2 +1,2 @@
 # MLOG - Machine Learning on Graphs
-Machine Learning stuff implemented using different programming languages and frameworks.
+Machine Learning On Graphs (MLOG) techniques implemented using different programming languages and frameworks.
